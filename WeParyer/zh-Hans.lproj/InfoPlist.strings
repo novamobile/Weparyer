@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  WeParyer
+
+  Created by Jeccy on 16/5/20.
+  Copyright © 2016年 Jeccy. All rights reserved.
+*/
+
+NSLocationAlwaysUsageDescription = "WePray需要知道您的位置才能计算祷告时间以及确定天房方向。";
+
+NSLocationWhenInUseUsageDescription = "WePray需要知道您的位置才能计算祷告时间以及确定天房方向。";
+

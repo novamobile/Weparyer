@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "dhuhr"; ObjectID = "7P8-dQ-sIQ"; */
+"7P8-dQ-sIQ.text" = "dhuhr";
+
+/* Class = "UILabel"; text = "asr"; ObjectID = "Bjv-bC-3pC"; */
+"Bjv-bC-3pC.text" = "asr";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FO9-6l-WLV"; */
+"FO9-6l-WLV.text" = "Label";
+
+/* Class = "UILabel"; text = "04:51"; ObjectID = "WSR-cl-Dn9"; */
+"WSR-cl-Dn9.text" = "04:51";
+
+/* Class = "UILabel"; text = "ishaa"; ObjectID = "XcT-VS-sFO"; */
+"XcT-VS-sFO.text" = "ishaa";
+
+/* Class = "UILabel"; text = "fajr"; ObjectID = "YNh-dU-gAY"; */
+"YNh-dU-gAY.text" = "fajr";
+
+/* Class = "UILabel"; text = "Please open WePray location to get Widget."; ObjectID = "bzm-ME-xac"; */
+"bzm-ME-xac.text" = "Please open WePray location to get Widget.";
+
+/* Class = "UILabel"; text = "maghrib"; ObjectID = "k6U-0h-BuG"; */
+"k6U-0h-BuG.text" = "maghrib";
+
+/* Class = "UILabel"; text = "Fajir"; ObjectID = "xie-Tx-yht"; */
+"xie-Tx-yht.text" = "Fajir";

@@ -1,0 +1,169 @@
+/*
+ MyPrayLocalized.strings
+ chapel
+ 
+ Created by Jeccy on 16/5/4.
+ Copyright © 2016年 Jacy. All rights reserved.
+ */
+
+"key_time" = "время";
+
+"key_athan" = "Азан";
+
+"key_TellFriend" = "Рассказать друзьям";
+
+"key_Qibla" = "Кибла";
+
+"key_fajr" = "Фаджр";
+
+"key_sunrise" = "восход";
+
+"key_dhuhr" = "Зухр";
+
+"key_asr" = "Аср";
+
+"key_maghrib" = "Магриб";
+
+"key_ishaa" = "Иша";
+
+"key_Settings" = "Общий";
+
+"key_Language" = "";
+
+"key_DaylightSavingTime" = "Летнее время";
+
+"key_Version" = "Версия";
+
+"key_Rating" = "Рейтинг";
+
+"key_ContactUs" = "Свяжитесь с нами";
+
+"key_AnswerThQuestion" = "";
+
+"key_MailTitle" = "Feedback to WePray";
+
+"key_1" = "понедельник";
+
+"key_2" = "Вторник";
+
+"key_3" = "среду";
+
+"key_4" = "четверг";
+
+"key_5" = "пятницу";
+
+"key_6" = "суббота";
+
+"key_7" = "воскресенье";
+
+"key_Al-Affassi" = "Al Affassi";
+"key_Fajr Malek Chebae" = "Fajr Malek Chebae";
+"key_Hamad Degheri" = "Hamad Degheri";
+"key_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour";
+"key_Nasser Al Qatami" = "Nasser Al Qatami";
+"key_Youssef Maati" = "Youssef Maati";
+
+"key_Shot_Al-Affassi" = "Al Affassi";
+"key_Shot_Fajr Malek Chebae" = "Fajr";
+"key_Shot_Hamad Degheri" = "Hamad";
+"key_Shot_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour";
+"key_Shot_Nasser Al Qatami" = "Nasser";
+"key_Shot_Youssef Maati" = "Youssef";
+
+"key_Egypt" = "Egypt";
+"key_Fatih Seferagic" = "Fatih Seferagic";
+"key_Wadii Hamadi" = "Wadii Hamadi";
+"key_Bilal" = "Bilal";
+"key_Bosnie" = "Bosnie";
+"key_Abdelmajid" = "Abdelmajid";
+"key_Maroc" = "Maroc";
+
+"key_Shot_Egypt" = "Egypt";
+"key_Shot_Fatih Seferagic" = "Fatih Seferagic";
+"key_Shot_Wadii Hamadi" = "Wadii Hamadi";
+"key_Shot_Bilal" = "Bilal";
+"key_Shot_Bosnie" = "Bosnie";
+"key_Shot_Abdelmajid" = "Abdelmajid";
+"key_Shot_Maroc" = "Maroc";
+
+"key_SystemDefault" = "Звуковой сигнал (Сигнал)";
+
+"key_AthanAlarm" = "время для Азан";
+
+"key_AthanTime" = "время для Азан";
+
+"key_stopAthan" = "выключать Азан";
+
+"key_startPary" = "Вид";
+
+"key_timeTofajr" = "время для Фаджр";
+
+"key_timeTosunrise" = "время восхода";
+
+"key_timeTodhuhr" = "время для Зухра";
+
+"key_timeToasr" = "время для Аср";
+
+"key_timeTomaghrib" = "время для Магриба";
+
+"key_timeToishaa" = "время для Иша";
+
+"key_timeToSimplefajr" = "время для Фаджр";
+
+"key_timeToSimplesunrise" = "время восхода";
+
+"key_timeToSimpledhuhr" = "время для Зухра";
+
+"key_timeToSimpleasr" = "время для Аср";
+
+"key_timeToSimplemaghrib" = "время для Магриба";
+
+"key_timeToSimpleishaa" = "время для Иша";
+
+"key_RecommendAd" = "Вам может понравиться";
+
+"key_HandAdjusting" = "Ручная регулировка";
+
+"key_wenxingtishi" = "Напоминание";
+
+"key_GotoSetting" = "Параметры";
+
+"key_weikaiqidingweitip" = "функция Позиционирования   ограничена,WePray нужно знать ваше местоположение, чтобы вычислить время молитвы и направление киблы";
+
+"key_showAdTip" = "Листайте влево, если Вам не нравится приложение. Кликните по понравившемуся приложению. Вас ждет сюрприз!";
+
+"key_choiceSoundTip" = "滑动推送打开应用时，即可收听您选取的完整唤礼声";
+
+"key_Oktip" = "ввод ";
+
+"key_done" = "ввод";
+
+"key_cancle" = "отмена";
+
+"key_min" = "минут";
+
+"key_FaceBookSupport" = "Поддержите нашу страницу";
+
+"key_DayLightingSaveDefault" = "закрыть";
+
+"key_notificationSoundTitle" = "Уведомления";
+
+"key_Beep" = "Звуковой сигнал (Сигнал)";
+
+"key_setSuccess" = "Параметры успеха";
+
+"key_sendSuccess" = "Отправка успешно";
+
+"key_sendFail" = "Не удалось отправить";
+
+"key_Blogger" = "";
+
+"key_CalcTimeMethod" = "Методы расчета";
+"key_MWL"  = "Всемирная мусульманская лига";
+"key_ISNA" = "Исламское Общество Северной Америки";
+
+"Key_Silence" = "Тишина (Тихо)";
+
+"key_None" = "Нет";
+
+

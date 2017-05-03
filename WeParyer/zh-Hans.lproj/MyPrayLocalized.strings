@@ -1,0 +1,168 @@
+/* 
+  MyPrayLocalized.strings
+  chapel
+
+  Created by Jeccy on 16/5/4.
+  Copyright © 2016年 Jacy. All rights reserved.
+*/
+
+"key_time" = "时间";
+
+"key_athan" = "唤礼声";
+
+"key_TellFriend" = "告诉朋友";
+
+"key_Qibla" = "朝向";
+
+"key_fajr" = "晨礼";
+
+"key_sunrise" = "日出";
+
+"key_dhuhr" = "晌礼";
+
+"key_asr" = "晡礼";
+
+"key_maghrib" = "昏礼";
+
+"key_ishaa" = "宵礼";
+
+"key_Settings" = "通用";
+
+"key_Language" = "语言";
+
+"key_DaylightSavingTime" = "夏令时";
+
+"key_Version" = "当前版本";
+
+"key_Rating" = "五星好评";
+
+"key_ContactUs" = "联系我们";
+
+"key_AnswerThQuestion" = "问卷调查";
+
+"key_MailTitle" = "Feedback to WePray";
+
+"key_1" = "星期一";
+
+"key_2" = "星期二";
+
+"key_3" = "星期三";
+
+"key_4" = "星期四";
+
+"key_5" = "星期五";
+
+"key_6" = "星期六";
+
+"key_7" = "星期日";
+
+"key_Al-Affassi" = "Al Affassi";
+"key_Fajr Malek Chebae" = "Fajr Malek Chebae";
+"key_Hamad Degheri" = "Hamad Degheri";
+"key_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour";
+"key_Nasser Al Qatami" = "Nasser Al Qatami";
+"key_Youssef Maati" = "Youssef Maati";
+
+"key_Shot_Al-Affassi" = "Al Affassi";
+"key_Shot_Fajr Malek Chebae" = "Fajr";
+"key_Shot_Hamad Degheri" = "Hamad";
+"key_Shot_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour";
+"key_Shot_Nasser Al Qatami" = "Nasser";
+"key_Shot_Youssef Maati" = "Youssef";
+
+"key_Egypt" = "Egypt";
+"key_Fatih Seferagic" = "Fatih Seferagic";
+"key_Wadii Hamadi" = "Wadii Hamadi";
+"key_Bilal" = "Bilal";
+"key_Bosnie" = "Bosnie";
+"key_Abdelmajid" = "Abdelmajid";
+"key_Maroc" = "Maroc";
+
+"key_Shot_Egypt" = "Egypt";
+"key_Shot_Fatih Seferagic" = "Fatih Seferagic";
+"key_Shot_Wadii Hamadi" = "Wadii Hamadi";
+"key_Shot_Bilal" = "Bilal";
+"key_Shot_Bosnie" = "Bosnie";
+"key_Shot_Abdelmajid" = "Abdelmajid";
+"key_Shot_Maroc" = "Maroc";
+
+"key_SystemDefault" = "系统音";
+
+"key_AthanAlarm" = "礼拜时刻";
+
+"key_AthanTime" = "礼拜时刻";
+
+"key_stopAthan" = "关闭";
+
+"key_startPary" = "查看";
+
+"key_timeTofajr" = "晨礼时间到。";
+
+"key_timeTosunrise" = "日出时间到。";
+
+"key_timeTodhuhr" = "晌礼时间到。";
+
+"key_timeToasr" = "晡礼时间到。";
+
+"key_timeTomaghrib" = "昏礼时间到。";
+
+"key_timeToishaa" = "宵礼时间到。";
+
+"key_timeToSimplefajr" = "晨礼时间到。";
+
+"key_timeToSimplesunrise" = "日出时间到。";
+
+"key_timeToSimpledhuhr" = "晌礼时间到。";
+
+"key_timeToSimpleasr" = "晡礼时间到。";
+
+"key_timeToSimplemaghrib" = "昏礼时间到。";
+
+"key_timeToSimpleishaa" = "宵礼时间到。";
+
+"key_RecommendAd" = "精品推荐";
+
+"key_HandAdjusting" = "手动调整";
+
+"key_wenxingtishi" = "温馨提示";
+
+"key_GotoSetting" = "设置";
+
+"key_weikaiqidingweitip" = "定位功能未开启。WePray需要知道您的位置才能计算祷告时间以及确定天房的方向";
+
+"key_showAdTip" = "如果不喜欢这个应用，将图片向左滑动。如果你喜欢它，就点击它！总有惊喜在等待你！";
+
+"key_choiceSoundTip" = "滑动推送打开应用时，即可收听您选取的完整唤礼声";
+
+"key_Oktip" = "好的";
+
+"key_done" = "确定";
+
+"key_cancle" = "取消";
+
+"key_min" = "分钟";
+
+"key_FaceBookSupport" = "支持主页";
+
+"key_DayLightingSaveDefault" = "关闭";
+
+"key_notificationSoundTitle" = "推送声";
+
+"key_Beep" = "系统声";
+
+"key_setSuccess" = "设置成功";
+
+"key_sendSuccess" = "发送成功";
+
+"key_sendFail" = "发送失败";
+
+"key_Blogger" = "社区";
+
+"key_CalcTimeMethod" = "计算方法";
+"key_MWL"  = "穆斯林世界联盟";
+"key_ISNA" = "北美";
+
+"Key_Silence" = "静音";
+
+"key_None" = "无";
+

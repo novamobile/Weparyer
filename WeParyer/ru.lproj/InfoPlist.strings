@@ -1,0 +1,12 @@
+/* 
+  InfoPlist.strings
+  WeParyer
+
+  Created by Jeccy on 16/5/20.
+  Copyright © 2016年 Jeccy. All rights reserved.
+*/
+
+NSLocationAlwaysUsageDescription = "WePray нужно знать ваше местоположение, чтобы вычислить время молитвы и направление киблы.";
+
+NSLocationWhenInUseUsageDescription = "WePray нужно знать ваше местоположение, чтобы вычислить время молитвы и направление киблы.";
+

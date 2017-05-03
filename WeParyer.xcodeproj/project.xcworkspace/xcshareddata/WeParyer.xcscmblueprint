@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "98ce0610-4f93-4b44-89ca-2e54708c8024++3439",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "98ce0610-4f93-4b44-89ca-2e54708c8024++3439" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "98ce0610-4f93-4b44-89ca-2e54708c8024++3439" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B802011D-5063-44A7-A1AC-690625880F86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "98ce0610-4f93-4b44-89ca-2e54708c8024++3439" : "WeParyer_201681\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "WeParyer",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "WeParyer.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/code.taobao.org\/svn\/WePrayer",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "98ce0610-4f93-4b44-89ca-2e54708c8024++3439"
+    }
+  ]
+}

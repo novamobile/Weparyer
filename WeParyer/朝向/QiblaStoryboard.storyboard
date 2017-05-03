@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="11762" systemVersion="15G31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11757"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Title-->
+        <scene sceneID="lZm-nB-diO">
+            <objects>
+                <viewController useStoryboardIdentifierAsRestorationIdentifier="YES" id="J1P-aa-owW" customClass="QiblaViewController" customModule="WeParyer" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="HpN-at-U6w"/>
+                        <viewControllerLayoutGuide type="bottom" id="Xi1-m9-InO"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" semanticContentAttribute="playback" id="Whz-Bs-Nkl">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView hidden="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fajr_backGround" translatesAutoresizingMaskIntoConstraints="NO" id="pKI-6F-74t">
+                                <rect key="frame" x="-4" y="44" width="383" height="672"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="needleImageCenter" translatesAutoresizingMaskIntoConstraints="NO" id="QqX-sw-qKq">
+                                <rect key="frame" x="37" y="150" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="hQ5-4Z-zkA"/>
+                                    <constraint firstAttribute="height" constant="300" id="oVY-SC-W6s"/>
+                                </constraints>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_compass" translatesAutoresizingMaskIntoConstraints="NO" id="NkD-GZ-qa7">
+                                <rect key="frame" x="38" y="150" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="300" id="QCL-KV-elr"/>
+                                    <constraint firstAttribute="width" constant="300" id="WkW-pA-nVY"/>
+                                </constraints>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Localtion" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KI5-ea-SjX">
+                                <rect key="frame" x="153" y="540" width="70" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="21" id="fKO-xa-33i"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="default">
+                                    <mask key="constraints">
+                                        <exclude reference="fKO-xa-33i"/>
+                                    </mask>
+                                </variation>
+                            </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="NeedleImage" translatesAutoresizingMaskIntoConstraints="NO" id="egz-ZQ-IMM">
+                                <rect key="frame" x="38" y="150" width="300" height="300"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="300" id="RxH-nt-T5T"/>
+                                    <constraint firstAttribute="height" constant="300" id="uzI-jQ-fqo"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="QqX-sw-qKq" firstAttribute="centerY" secondItem="Whz-Bs-Nkl" secondAttribute="centerY" multiplier="0.9" id="35E-sl-5oy"/>
+                            <constraint firstItem="KI5-ea-SjX" firstAttribute="centerX" secondItem="Whz-Bs-Nkl" secondAttribute="centerX" id="3G5-6N-gcV"/>
+                            <constraint firstItem="QqX-sw-qKq" firstAttribute="centerX" secondItem="Whz-Bs-Nkl" secondAttribute="centerX" id="5IJ-Dh-cJZ"/>
+                            <constraint firstItem="pKI-6F-74t" firstAttribute="top" secondItem="HpN-at-U6w" secondAttribute="bottom" constant="-20" id="8Pb-uy-0K0"/>
+                            <constraint firstItem="NkD-GZ-qa7" firstAttribute="centerY" secondItem="Whz-Bs-Nkl" secondAttribute="centerY" multiplier="0.9" id="Cni-fu-KBt"/>
+                            <constraint firstItem="egz-ZQ-IMM" firstAttribute="centerX" secondItem="Whz-Bs-Nkl" secondAttribute="centerX" id="NKf-3G-nWC"/>
+                            <constraint firstItem="egz-ZQ-IMM" firstAttribute="centerY" secondItem="Whz-Bs-Nkl" secondAttribute="centerY" multiplier="0.9" id="P8N-jQ-o4z"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="pKI-6F-74t" secondAttribute="trailing" constant="-20" id="QIM-zF-hqA"/>
+                            <constraint firstItem="Xi1-m9-InO" firstAttribute="top" secondItem="pKI-6F-74t" secondAttribute="bottom" constant="-49" id="VtT-cc-moO"/>
+                            <constraint firstItem="NkD-GZ-qa7" firstAttribute="centerX" secondItem="Whz-Bs-Nkl" secondAttribute="centerX" id="aXs-4h-NlR"/>
+                            <constraint firstItem="KI5-ea-SjX" firstAttribute="centerY" secondItem="Whz-Bs-Nkl" secondAttribute="centerY" multiplier="1.65" id="cvy-eJ-mIb"/>
+                            <constraint firstItem="pKI-6F-74t" firstAttribute="leading" secondItem="Whz-Bs-Nkl" secondAttribute="leadingMargin" constant="-20" id="gli-nu-KQe"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" title="Title" id="yJa-fC-3wd"/>
+                    <connections>
+                        <outlet property="backGround" destination="pKI-6F-74t" id="y0t-Ip-AjN"/>
+                        <outlet property="directImageView" destination="egz-ZQ-IMM" id="rSq-9v-jCq"/>
+                        <outlet property="hornLabel" destination="KI5-ea-SjX" id="0Eo-w9-oET"/>
+                        <outlet property="imageView" destination="NkD-GZ-qa7" id="iO5-WF-P1D"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="xIv-eo-Oga" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1090.4000000000001" y="223.53823088455775"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="J6H-aG-15q">
+            <objects>
+                <navigationController storyboardIdentifier="QiblaViewController" automaticallyAdjustsScrollViewInsets="NO" id="9pc-o7-wUI" sceneMemberID="viewController">
+                    <toolbarItems/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="Hjs-p7-TYK">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <color key="barTintColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </navigationBar>
+                    <nil name="viewControllers"/>
+                    <connections>
+                        <segue destination="J1P-aa-owW" kind="relationship" relationship="rootViewController" id="sxS-EP-fLg"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="q7X-Jd-GU9" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="279" y="224"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="NeedleImage" width="300" height="300"/>
+        <image name="fajr_backGround" width="16" height="16"/>
+        <image name="ic_compass" width="300" height="300"/>
+        <image name="needleImageCenter" width="300" height="300"/>
+    </resources>
+</document>

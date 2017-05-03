@@ -1,0 +1,172 @@
+/*
+ MyPrayLocalized.strings
+ chapel
+ 
+ Created by Jeccy on 16/5/4.
+ Copyright © 2016年 Jacy. All rights reserved.
+ */
+
+"key_time" = "Time";
+
+"key_athan" = "Athan";
+
+"key_TellFriend" = "Tell Friends";
+
+"key_Qibla" = "Qibla";
+
+"key_fajr" = "Fajr";
+
+"key_sunrise" = "Sunrise";
+
+"key_dhuhr" = "Dhuhr";
+
+"key_asr" = "Asr";
+
+"key_maghrib" = "Maghrib";
+
+"key_ishaa" = "Ishaa";
+
+"key_Settings" = "General";
+
+"key_Language" = "Language";
+
+"key_DaylightSavingTime" = "Daylight Saving Time";
+
+"key_Version" = "Version";
+
+"key_Rating" = "Rating";
+
+"key_ContactUs" = "Contact Us";
+
+"key_AnswerThQuestion" = "问卷调查";
+
+"key_MailTitle" = "Feedback to WePray";
+
+"key_1" = "Monday";
+
+"key_2" = "Tuesday";
+
+"key_3" = "Wednesday";
+
+"key_4" = "Thursday";
+
+"key_5" = "Friday";
+
+"key_6" = "Saturday";
+
+"key_7" = "Sunday";
+
+"key_Abdelmajid Salama Sarihi" = "Abdelmajid Salama Sarihi";
+
+"key_SystemDefault" = "System Default";
+
+"key_Al-Affassi" = "Al Affassi";
+"key_Fajr Malek Chebae" = "Fajr Malek Chebae(Fajr)";
+"key_Hamad Degheri" = "Hamad Degheri";
+"key_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour(Fajr)";
+"key_Nasser Al Qatami" = "Nasser Al Qatami";
+"key_Youssef Maati" = "Youssef Maati";
+
+//second
+"key_Egypt" = "Egypt";
+"key_Fatih Seferagic" = "Fatih Seferagic";
+"key_Wadii Hamadi" = "Wadii Hamadi";
+"key_Bilal" = "Bilal";
+"key_Bosnie" = "Bosnie";
+"key_Abdelmajid" = "Abdelmajid";
+"key_Maroc" = "Maroc";
+
+"key_Shot_Al-Affassi" = "Al Affassi";
+"key_Shot_Fajr Malek Chebae" = "Fajr";
+"key_Shot_Hamad Degheri" = "Hamad";
+"key_Shot_Mansour-Az-Zahrani-Fajr-Intro" = "Mansour";
+"key_Shot_Nasser Al Qatami" = "Nasser";
+"key_Shot_Youssef Maati" = "Youssef";
+
+"key_Shot_Egypt" = "Egypt";
+"key_Shot_Fatih Seferagic" = "Fatih Seferagic";
+"key_Shot_Wadii Hamadi" = "Wadii Hamadi";
+"key_Shot_Bilal" = "Bilal";
+"key_Shot_Bosnie" = "Bosnie";
+"key_Shot_Abdelmajid" = "Abdelmajid";
+"key_Shot_Maroc" = "Maroc";
+
+
+"key_AthanAlarm" = "Athan Alarm";
+
+"key_AthanTime" = "Athan Alarm";
+
+"key_stopAthan" = "Close";
+
+"key_startPary" = "view";
+
+"key_timeTofajr" = "Prayer time to Fajr.";
+
+"key_timeTosunrise" = "Prayer time to Sunrise.";
+
+"key_timeTodhuhr" = "Prayer time to Dhuhr.";
+
+"key_timeToasr" = "Prayer time to Asr.";
+
+"key_timeTomaghrib" = "Prayer time to Maghrib.";
+
+"key_timeToishaa" = "Prayer time to Ishaa.";
+
+"key_timeToSimplefajr" = "Time for Fajr.";
+
+"key_timeToSimplesunrise" = "Time for Sunrise.";
+
+"key_timeToSimpledhuhr" = "Time for Dhuhr.";
+
+"key_timeToSimpleasr" = "Time for Asr.";
+
+"key_timeToSimplemaghrib" = "Time for Maghrib.";
+
+"key_timeToSimpleishaa" = "Time for Ishaa.";
+
+"key_RecommendAd" = "You May Like";
+
+"key_HandAdjusting" = "Manual Adjustment";
+
+"key_wenxingtishi" = "Reminder";
+
+"key_GotoSetting" = "Settings";
+
+
+"key_weikaiqidingweitip" = "The WePray permission was not authorized.Please enable it in Settings to continue.";
+
+"key_showAdTip" = "Slide the picture to left if you do not like the app.If you like it,just click it!There is always a surprise waiting for you!";
+
+"key_choiceSoundTip" = "When you slide push to open WePray, you can listen to the complete Athan which you choose it.";
+
+"key_Oktip" = "OK";
+
+"key_done" = "Done";
+
+"key_cancle" = "Cancel";
+
+"key_min" = "min";
+
+"key_FaceBookSupport" = "Like us on Facebook";
+
+"key_DayLightingSaveDefault" = "Off";
+
+"key_notificationSoundTitle" = "Notifications";
+
+"key_Beep" = "Beep";
+
+"key_setSuccess" = "Set successfully";
+
+"key_sendSuccess" = "Send successfully";
+
+"key_sendFail" = "Transmission error";
+
+"key_CalcTimeMethod" = "Calculation Methods";
+"key_MWL"  = "Muslim World League";
+"key_ISNA" = "Islamic Society of North America";
+
+"Key_Silence" = "Silence";
+
+
+"key_None" = "None";
+

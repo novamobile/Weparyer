@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10117" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ImprovementTimeViewController" customModule="WeParyer" customModuleProvider="target">
+            <connections>
+                <outlet property="cancleBtn" destination="eWU-tX-6fg" id="UDb-gX-ZMl"/>
+                <outlet property="dBtn" destination="uvy-Jp-zsT" id="QHM-pC-PeK"/>
+                <outlet property="pickView" destination="IQL-4s-aSH" id="fvR-lX-s0n"/>
+                <outlet property="tableView" destination="CYt-PO-xzl" id="rHr-Ou-BTb"/>
+                <outlet property="toolBar" destination="3Tn-0A-q1A" id="m6H-Gr-mAk"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="CYt-PO-xzl">
+                    <rect key="frame" x="0.0" y="1" width="320" height="567"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="220" id="kHe-9p-lRz"/>
+                    </constraints>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="kHe-9p-lRz"/>
+                        </mask>
+                    </variation>
+                </tableView>
+                <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="IQL-4s-aSH">
+                    <rect key="frame" x="0.0" y="368" width="320" height="200"/>
+                    <color key="backgroundColor" red="0.93725490196078431" green="0.93725490196078431" blue="0.93725490196078431" alpha="1" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="200" id="K4O-Gw-pQJ"/>
+                    </constraints>
+                </pickerView>
+                <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="3Tn-0A-q1A">
+                    <rect key="frame" x="0.0" y="324" width="320" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="AHI-xv-DjM"/>
+                    </constraints>
+                    <items>
+                        <barButtonItem title="Cancle" id="eWU-tX-6fg">
+                            <color key="tintColor" red="0.0" green="0.26101703430000001" blue="0.99215686270000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <connections>
+                                <action selector="cancleBtnClick:" destination="-1" id="3Px-or-d0h"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem style="plain" systemItem="flexibleSpace" id="sQM-6n-QHL"/>
+                        <barButtonItem title="Done" id="uvy-Jp-zsT">
+                            <color key="tintColor" red="0.0" green="0.26101703430000001" blue="0.99215686270000003" alpha="1" colorSpace="calibratedRGB"/>
+                            <connections>
+                                <action selector="doneBtnClick:" destination="-1" id="1Z1-vS-GVa"/>
+                            </connections>
+                        </barButtonItem>
+                    </items>
+                </toolbar>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="CYt-PO-xzl" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="01f-zi-RHd"/>
+                <constraint firstItem="3Tn-0A-q1A" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="2fh-2e-XBx"/>
+                <constraint firstItem="3Tn-0A-q1A" firstAttribute="top" secondItem="CYt-PO-xzl" secondAttribute="bottom" id="6Ev-AZ-Qph"/>
+                <constraint firstAttribute="trailing" secondItem="CYt-PO-xzl" secondAttribute="trailing" id="JhL-C2-dgj"/>
+                <constraint firstItem="IQL-4s-aSH" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="LzE-Ak-jAG"/>
+                <constraint firstAttribute="trailing" secondItem="CYt-PO-xzl" secondAttribute="trailing" id="N5Y-gE-TWs"/>
+                <constraint firstAttribute="trailing" secondItem="IQL-4s-aSH" secondAttribute="trailing" id="Ntw-ON-gK1"/>
+                <constraint firstAttribute="bottom" secondItem="CYt-PO-xzl" secondAttribute="bottom" id="OS2-NS-ATT"/>
+                <constraint firstAttribute="trailing" secondItem="3Tn-0A-q1A" secondAttribute="trailing" id="YcL-A6-eyD"/>
+                <constraint firstItem="IQL-4s-aSH" firstAttribute="top" secondItem="3Tn-0A-q1A" secondAttribute="bottom" id="ZyT-14-iYz"/>
+                <constraint firstAttribute="bottom" secondItem="IQL-4s-aSH" secondAttribute="bottom" id="cYj-4l-ale"/>
+                <constraint firstItem="CYt-PO-xzl" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="fIw-eS-fEu"/>
+                <constraint firstItem="CYt-PO-xzl" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="pjG-om-aT0"/>
+                <constraint firstItem="CYt-PO-xzl" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="1" id="y7S-Kh-pkr"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="01f-zi-RHd"/>
+                    <exclude reference="N5Y-gE-TWs"/>
+                    <exclude reference="pjG-om-aT0"/>
+                    <exclude reference="6Ev-AZ-Qph"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+</document>

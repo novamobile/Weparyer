@@ -1,0 +1,165 @@
+/* 
+  MyPrayLocalized.strings
+  chapel
+
+  Created by Jeccy on 16/5/4.
+  Copyright © 2016年 Jacy. All rights reserved.
+*/
+
+"key_time" = "توقيت";
+
+"key_athan" = "أذان";
+
+"key_TellFriend" = "تبليغ للاصدقاء";
+
+"key_Qibla" = "قبلة";
+
+"key_fajr" = "الفجر";
+
+"key_sunrise" = "الشروق";
+
+"key_dhuhr" = "الظهر";
+
+"key_asr" = "العصر";
+
+"key_maghrib" = "المغرب";
+
+"key_ishaa" = "العشاء";
+
+"key_Settings" = "عام";
+
+"key_Language" = "اللغة";
+
+"key_DaylightSavingTime" = "التوقيت الصيفي";
+
+"key_Version" = "الأصدر الحالي";
+
+"key_Rating" = "تقييم التطبيق";
+
+"key_ContactUs" = "راسلنا";
+
+"key_AnswerThQuestion" = "问卷调查";
+
+"key_MailTitle" = "Feedback to WePray";
+
+"key_1" = "يوم الإثنين";
+
+"key_2" = "يوم الثلاثاء";
+
+"key_3" = "يوم الأربعاء";
+
+"key_4" = "يوم الخميس";
+
+"key_5" = "يوم الجمعة";
+
+"key_6" = "يوم السبت";
+
+"key_7" = "يوم الأحد";
+
+"key_Al-Affassi" = "الشيخ مشارى العفاسي";
+"key_Fajr Malek Chebae" = "فجر مالك شيبة ( فجر )";
+"key_Hamad Degheri" = "حمد الدغريري";
+"key_Mansour-Az-Zahrani-Fajr-Intro" = "منصور عز الزهرانى  فجر ";
+"key_Nasser Al Qatami" = "ناصر القطامي";
+"key_Youssef Maati" = "يوسف معاطي";
+
+"key_Shot_Al-Affassi" = "العفاسي";
+"key_Shot_Fajr Malek Chebae" = "فجر";
+"key_Shot_Hamad Degheri" = "حمد";
+"key_Shot_Mansour-Az-Zahrani-Fajr-Intro" = "(منصور (فجر";
+"key_Shot_Nasser Al Qatami" = "ناصر";
+"key_Shot_Youssef Maati" = "يوسف";
+
+"key_Egypt" = "مصر";
+"key_Fatih Seferagic" = "فتحي السفرجي";
+"key_Wadii Hamadi" = "واد حمدى";
+"key_Bilal" = "بلال";
+"key_Bosnie" = "بوسنيا";
+"key_Abdelmajid" = "عبد المجيد";
+"key_Maroc" = "مغرب";
+
+"key_Shot_Egypt" = "مصر";
+"key_Shot_Fatih Seferagic" = "فتحي السفرجي";
+"key_Shot_Wadii Hamadi" = "واد حمدى";
+"key_Shot_Bilal" = "بلال";
+"key_Shot_Bosnie" = "بوسنيا";
+"key_Shot_Abdelmajid" = "عبد المجيد";
+"key_Shot_Maroc" = "مغرب";
+
+"key_SystemDefault" = "System Default";
+
+"key_AthanAlarm" = "وقت الأذان";
+
+"key_AthanTime" = "وقت الأذان";
+
+"key_stopAthan" = "إغلاق";
+
+"key_startPary" = "المراجعة";
+
+"key_timeTofajr" = "حان وقت صلاة الفجر.";
+
+"key_timeTosunrise" = "حان وقت الشروق.";
+
+"key_timeTodhuhr" = "حان وقت صلات الظهر.";
+
+"key_timeToasr" = "حان وقت صلات العصر.";
+
+"key_timeTomaghrib" = "حان وقت صلات المغرب.";
+
+"key_timeToishaa" = "حان وقت صلات العشاء.";
+
+"key_timeToSimplefajr" = "حان وقت صلاة الفجر.";
+
+"key_timeToSimplesunrise" = "حان وقت الشروق.";
+
+"key_timeToSimpledhuhr" = "حان وقت صلات الظهر.";
+
+"key_timeToSimpleasr" = "حان وقت صلات العصر.";
+
+"key_timeToSimplemaghrib" = "حان وقت صلات المغرب.";
+
+"key_timeToSimpleishaa" = "حان وقت صلات العشاء.";
+
+"key_RecommendAd" = "تطبيق موصى به";
+
+"key_HandAdjusting" = "تصحيحات يدوية";
+
+"key_wenxingtishi" = "تنبيه";
+
+"key_GotoSetting" = "إعدادات";
+
+"key_weikaiqidingweitip" = "لم يتم فتح الموقع. نحتاج إلى معرفة موقعك ليحسب أوقات الصلاة واتجاه القبلة.";
+
+"key_showAdTip" = "إذا لم أعجبك التطبيق يرجي مسح الشاشة إلى اليسار. وإذا يعجبك أنقر عليه! في إنتظار تعقيبك!";
+
+"key_choiceSoundTip" = "عند التحرير لفتح WePray يمكنك الاستماع الى الاذان الكامل التى إختياره";
+
+"key_Oktip" = "حسنا";
+
+"key_done" = "تم";
+
+"key_cancle" = "إلغاء";
+
+"key_min" = "min";
+
+"key_FaceBookSupport" = "سجل إعجابك لنا";
+
+"key_DayLightingSaveDefault" = "إغلاق";
+
+"key_notificationSoundTitle" = "صوت التنبيه";
+
+"key_Beep" = "صفارة";
+
+"key_setSuccess" = "تم الوضع";
+
+"key_sendSuccess" = "تم الإرسال";
+
+"key_sendFail" = "فشل الإرسال";
+
+"key_CalcTimeMethod" = "الطرق الحسابية";
+"key_MWL"  = "رابط العالم الإسلامي";
+"key_ISNA" = "الجمعية الإسلامية لأمريكا الشمالية";
+
+"Key_Silence" = "صامت";
+
+"key_None" = "لا شيء";

@@ -1,0 +1,6 @@
+framework module Pods_WeParyer {
+  umbrella header "Pods-WeParyer-umbrella.h"
+
+  export *
+  module * { export * }
+}

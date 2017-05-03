@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.strings
+  WeParyer
+
+  Created by Jeccy on 16/5/20.
+  Copyright © 2016年 Jeccy. All rights reserved.
+*/
+
+
+NSLocationAlwaysUsageDescription = "يحتاج تطبيقنا إلى معرفة موقعك ليحسب أوقات الصلاة واتجاه القبلة.";
+
+NSLocationWhenInUseUsageDescription = "يحتاج تطبيقنا إلى معرفة موقعك ليحسب أوقات الصلاة واتجاه القبلة.";
+
